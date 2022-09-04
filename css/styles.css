@@ -160,6 +160,7 @@ ol {
   }
 .current:after {
   opacity: 1;
+  bottom: -1px;
   
 }
 .logo {
